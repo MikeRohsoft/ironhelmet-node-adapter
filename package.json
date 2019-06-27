@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/MikeRohsoft/ironforge-node-adapter.git"
+    "url": "https://github.com/MikeRohsoft/ironhelmet-node-adapter.git"
   },
   "dependencies": {
     "http-wrapper": "git+https://github.com/MikeRohsoft/mikes-node-www.git"
