@@ -1,4 +1,4 @@
-const LWP = require('./lwp');
+const LWP = require('http-wrapper');
 
 class Ironhelmet {
     /**
